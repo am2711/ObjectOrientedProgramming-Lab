@@ -86,7 +86,7 @@ class ArrayMulti{
                          }
                           else
                           {
-                              System.out.println("Error Cannot mbe multiplied");
+                              System.out.println("Error Cannot be multiplied");
                               System.exit(1);
                           }
                           break;
